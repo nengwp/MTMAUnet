@@ -1,6 +1,6 @@
 # MTMAUNet
 
-**MtMaUnet:** Multi-task multi-axis attention Unet
+**MTMAUNet:** Multi-Task Multi-axis Attention UNet
 
 ![](./img/1.png)
 
