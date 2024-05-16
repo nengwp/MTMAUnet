@@ -1,6 +1,6 @@
 # MTMAUNet
 
-MTMAUnet: **Automatic Pituitary Adenoma Segmentation and Prediction of Cavernous Sinus Invasion via Multi-task Learning**
+**MtMaUnet:** Multi-task multi-axis attention Unet
 
 ![](./img/1.png)
 
@@ -69,4 +69,7 @@ python val.py     # val
 
 Code based on DynUNet in  [monai](https://github.com/Project-MONAI/MONAI).
 
-Learning rate scheduler in this project credit to [zhanghang](https://github.com/zhanghang1989/PyTorch-Encoding/blob/58b93a741a9f494c0f3dec4d61707e6e5cc6198d/encoding/utils/lr_scheduler.py).
+
+Code based on 3D-MaxViT-pytorch in  [3D-MaxViT-pytorch](https://github.com/nengwp/3D-MaxViT-pytorch).
+
+
